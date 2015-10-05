@@ -79,7 +79,7 @@ A BoundInstace is an interface that declares getRecordId and setRecordId.  Every
 
 ###How to bind the fields in a model with your BoundIntace?
 
-This API has an Annotation called `@Bind`.  This annotation bind a fiend with a **set method**, for example:
+This API has an Annotation called `@Bind`.  This annotation bind a field with a **set method**, for example:
 
 ```Java 
 @Bind(field = "username")
