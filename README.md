@@ -6,7 +6,7 @@
 **org/dynamicloud/api/RecordQuery**<br>
 **org/dynamicloud/net/http/RecordClientImpl**<br>
 **org/dynamicloud/service/ServiceCallerImpl**<br>
-**The classes in package org.dynamiclud.api.criteria:***
+**The classes in package org.dynamiclud.api.criteria.***
 
 ###Now, I want to explain a little about this sample code
 
