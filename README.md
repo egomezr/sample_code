@@ -1,12 +1,12 @@
 ###The main classes in the project to check what I've developed are:
 
-**org/dynamicloud/api/DynamicSessionImpl**<br>
-**org/dynamicloud/api/DynamiCloudUtil**<br>
-**org/dynamicloud/api/annotation/Bind**<br>
-**org/dynamicloud/api/RecordQuery**<br>
-**org/dynamicloud/net/http/RecordClientImpl**<br>
-**org/dynamicloud/service/ServiceCallerImpl**<br>
-**The classes in package org.dynamiclud.api.criteria.***
+**org / dynamicloud / api / DynamicSessionImpl**<br>
+**org / dynamicloud / api / DynamiCloudUtil**<br>
+**org / dynamicloud / api / annotation/Bind**<br>
+**org / dynamicloud / api / RecordQuery**<br>
+**org / dynamicloud / net / http/RecordClientImpl**<br>
+**org / dynamicloud / service / ServiceCallerImpl**<br>
+**The classes in package org / dynamiclud / api / criteria /*.***
 
 ###Now, I want to explain a little about this sample code
 
