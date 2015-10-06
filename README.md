@@ -8,6 +8,8 @@
 **org / dynamicloud / service / ServiceCallerImpl**<br>
 **The classes in package org / dynamiclud / api / criteria /*.***
 
+I've applied different best practices, design patterns and the java capabilities like reflection, properties, annotations, etc.
+
 ###Now, I want to explain a little about this sample code
 
 I'm currently working on the way to launch a Website where developer, testers and little sites could store data in cloud.  The whole data in this site will be available throught **_API (Java and Ruby)_** and the developer will be able to access it with API keys.
