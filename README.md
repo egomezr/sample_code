@@ -58,7 +58,7 @@ try {
 
 **Explanation of this piece of code:**
 
-This line instantates the main object to execute operations, we have to pass the credentials to gain access to the servers.<br>
+This line instantiates the main object to execute operations, we have to pass the credentials to gain access to the servers.<br>
 ```Java 
 DynamicSession session = DynamicSession.Impl.getInstance(new RecordCredential(CSK, ACI));
 ```
